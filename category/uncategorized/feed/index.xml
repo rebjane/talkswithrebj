@@ -12,8 +12,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
 
 <channel>
-	<title>Talks With Reb J</title>
-	<atom:link href="http://localhost/talkswithrebj/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; Talks With Reb J</title>
+	<atom:link href="http://localhost/talkswithrebj/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 16 Apr 2022 21:46:14 +0000</lastBuildDate>
@@ -26,18 +26,18 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 <!-- podcast_generator="Blubrry PowerPress/9.0.1" mode="advanced" feedslug="feed" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
 	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<itunes:summary>Just another WordPress site</itunes:summary>
-	<itunes:author>Talks With Reb J</itunes:author>
+	<itunes:author>Uncategorized &#8211; Talks With Reb J</itunes:author>
 	<itunes:image href="/wp-content/uploads/2022/04/Screen-Shot-2022-04-15-at-7.53.14-PM.png" />
 	<itunes:owner>
-		<itunes:name>Talks With Reb J</itunes:name>
+		<itunes:name>Uncategorized &#8211; Talks With Reb J</itunes:name>
 		<itunes:email>hey@rebj.ca</itunes:email>
 	</itunes:owner>
-	<managingEditor>hey@rebj.ca (Talks With Reb J)</managingEditor>
+	<managingEditor>hey@rebj.ca (Uncategorized &#8211; Talks With Reb J)</managingEditor>
 	<itunes:subtitle>Just another WordPress site</itunes:subtitle>
 	<image>
-		<title>Talks With Reb J</title>
+		<title>Uncategorized &#8211; Talks With Reb J</title>
 		<url>/wp-content/uploads/2022/04/Screen-Shot-2022-04-15-at-7.53.14-PM.png</url>
-		<link></link>
+		<link>/category/uncategorized/</link>
 	</image>
 	<itunes:category text="Health &amp; Fitness">
 		<itunes:category text="Mental Health" />
@@ -61,7 +61,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		
 		<enclosure url="https://prismic-io.s3.amazonaws.com/rebj2021/04ee279f-0f82-4da6-993f-055b546afacf_talkswithrebj_2.m4a" length="33547727" type="audio/x-m4a" />
 
-				<itunes:author>Talks With Reb J</itunes:author>
+				<itunes:author>Uncategorized &#8211; Talks With Reb J</itunes:author>
 		<itunes:image href="/wp-content/uploads/2022/04/Episode-2-2-square-300x300.jpg" />
 		<itunes:episode>2</itunes:episode>
 		<itunes:title>Episode 2: Anxiety</itunes:title>
@@ -84,7 +84,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		
 		<enclosure url="https://prismic-io.s3.amazonaws.com/rebj2021/b6732533-8fb7-4d58-a16b-a12c586e91b2_talkswithrebj_DCF1E402-0757-4AB1-AD50-63E26E3A7101-31978-000007630ABED766.m4a" length="4671420" type="audio/x-m4a" />
 
-				<itunes:author>Talks With Reb J</itunes:author>
+				<itunes:author>Uncategorized &#8211; Talks With Reb J</itunes:author>
 		<itunes:image href="/wp-content/uploads/2022/04/Screen-Shot-2022-04-15-at-7.53.14-PM-1-300x300.png" />
 		<itunes:title>Episode 1: Intro</itunes:title>
 	</item>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -10,20 +11,17 @@ xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/d
 xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
-
 <channel>
 	<title>Talks With Reb J</title>
-	<atom:link href="http://localhost/talkswithrebj/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/talkswithrebj/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>Just another WordPress site</description>
+	<description>Talks With Reb J is a personal podcast started by a Toronto-based Illustrator &#038; Graphic Designer. In each episode, Rebecca speaks to her experiences with life, mental health, business, and creativity.</description>
 	<lastBuildDate>Sat, 16 Apr 2022 21:46:14 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.9</generator>
-<!-- podcast_generator="Blubrry PowerPress/9.0.1" mode="advanced" feedslug="feed" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=5.5.9</generator>
+<!-- podcast_generator="Blubrry PowerPress/9.0.1" mode="advanced" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
 	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<itunes:summary>Just another WordPress site</itunes:summary>
 	<itunes:author>Talks With Reb J</itunes:author>
@@ -46,67 +44,35 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<item>
 		<title>Episode 2: Anxiety</title>
 		<link>/2022/04/16/episode-2-anxiety/</link>
-					<comments>/2022/04/16/episode-2-anxiety/#respond</comments>
-		
-		<dc:creator><![CDATA[talkswithrebj]]></dc:creator>
 		<pubDate>Sat, 16 Apr 2022 21:46:14 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=8</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>/2022/04/16/episode-2-anxiety/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
+		<comments>/2022/04/16/episode-2-anxiety/#respond</comments>
+		<wfw:commentRss>/2022/04/16/episode-2-anxiety/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<enclosure url="https://prismic-io.s3.amazonaws.com/rebj2021/04ee279f-0f82-4da6-993f-055b546afacf_talkswithrebj_2.m4a" length="33547727" type="audio/x-m4a" />
-
-				<itunes:author>Talks With Reb J</itunes:author>
+			<itunes:author>Talks With Reb J</itunes:author>
 		<itunes:image href="/wp-content/uploads/2022/04/Episode-2-2-square-300x300.jpg" />
 		<itunes:episode>2</itunes:episode>
 		<itunes:title>Episode 2: Anxiety</itunes:title>
-	</item>
-		<item>
+		</item>
+	<item>
 		<title>Episode 1</title>
 		<link>/2022/04/16/episode-1/</link>
-					<comments>/2022/04/16/episode-1/#respond</comments>
-		
-		<dc:creator><![CDATA[talkswithrebj]]></dc:creator>
 		<pubDate>Sat, 16 Apr 2022 21:44:05 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=5</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>/2022/04/16/episode-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
+		<comments>/2022/04/16/episode-1/#respond</comments>
+		<wfw:commentRss>/2022/04/16/episode-1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<enclosure url="https://prismic-io.s3.amazonaws.com/rebj2021/b6732533-8fb7-4d58-a16b-a12c586e91b2_talkswithrebj_DCF1E402-0757-4AB1-AD50-63E26E3A7101-31978-000007630ABED766.m4a" length="4671420" type="audio/x-m4a" />
-
-				<itunes:author>Talks With Reb J</itunes:author>
+			<itunes:author>Talks With Reb J</itunes:author>
 		<itunes:image href="/wp-content/uploads/2022/04/Screen-Shot-2022-04-15-at-7.53.14-PM-1-300x300.png" />
 		<itunes:title>Episode 1: Intro</itunes:title>
-	</item>
-		<item>
-		<title>Hello world!</title>
-		<link>/2022/04/16/hello-world/</link>
-					<comments>/2022/04/16/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[talkswithrebj]]></dc:creator>
-		<pubDate>Sat, 16 Apr 2022 21:40:12 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/2022/04/16/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+		</item>
+</channel>
 </rss>
