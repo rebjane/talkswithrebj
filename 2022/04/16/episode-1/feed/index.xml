@@ -11,11 +11,11 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	>
 <channel>
 	<title>
-	Comments on: Episode 1	</title>
+	Comments on: Episode 1: Intro	</title>
 	<atom:link href="http://localhost/talkswithrebj/2022/04/16/episode-1/feed/" rel="self" type="application/rss+xml" />
 	<link>/2022/04/16/episode-1/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sat, 16 Apr 2022 21:44:06 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Apr 2022 21:58:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
