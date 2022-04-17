@@ -13,7 +13,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
 <channel>
 	<title>Talks With Reb J</title>
-	<atom:link href="http://localhost/talkswithrebj/feed/podcast/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rebj.ca/talkswithrebj/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Talks With Reb J is a personal podcast started by a Toronto-based Illustrator &#038; Graphic Designer. In each episode, Rebecca speaks to her experiences with life, mental health, business, and creativity.</description>
 	<lastBuildDate>Sat, 16 Apr 2022 21:58:48 +0000</lastBuildDate>
