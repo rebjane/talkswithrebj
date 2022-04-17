@@ -54,7 +54,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<content:encoded><![CDATA[]]></content:encoded>
 		<enclosure url="https://prismic-io.s3.amazonaws.com/rebj2021/04ee279f-0f82-4da6-993f-055b546afacf_talkswithrebj_2.m4a" length="33547727" type="audio/x-m4a" />
 			<itunes:author>Talks With Reb J</itunes:author>
-		<itunes:image href="https://images.prismic.io/rebj2021/49a259ee-1712-4c13-a070-943e2d821789_Screen+Shot+2022-04-15+at+7.53.14+PM.png" />
+		<itunes:image href="https://images.prismic.io/rebj2021/dac079f1-217b-44fa-911e-43c58a74dd3b_Episode-2-2-square.jpg" />
 		<itunes:episode>2</itunes:episode>
 		<itunes:title>Episode 2: Anxiety</itunes:title>
 		</item>
